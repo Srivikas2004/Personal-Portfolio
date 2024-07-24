@@ -3,4 +3,4 @@ This is my personal portfolio website designed to showcase my skills, projects, 
 
 index.html: The main HTML file containing the structure of the website, including sections for the hero, about me, projects, and contact.
 styles.css: The stylesheet for styling the application, including layout, typography, and color schemes.
-script.js: The JavaScript file handling interactive elements, such as the navigation menu toggle.
+
